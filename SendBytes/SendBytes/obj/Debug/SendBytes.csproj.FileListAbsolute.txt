@@ -1,0 +1,22 @@
+C:\Users\Виталий\Source\Workspaces\test\SendBytes\SendBytes\bin\Debug\SendBytes.exe.config
+C:\Users\Виталий\Source\Workspaces\test\SendBytes\SendBytes\bin\Debug\SendBytes.exe
+C:\Users\Виталий\Source\Workspaces\test\SendBytes\SendBytes\bin\Debug\SendBytes.pdb
+C:\Users\Виталий\Source\Workspaces\test\SendBytes\SendBytes\obj\Debug\SendBytes.csprojResolveAssemblyReference.cache
+C:\Users\Виталий\Source\Workspaces\test\SendBytes\SendBytes\obj\Debug\SendBytes.Form1.resources
+C:\Users\Виталий\Source\Workspaces\test\SendBytes\SendBytes\obj\Debug\SendBytes.Properties.Resources.resources
+C:\Users\Виталий\Source\Workspaces\test\SendBytes\SendBytes\obj\Debug\SendBytes.csproj.GenerateResource.Cache
+C:\Users\Виталий\Source\Workspaces\test\SendBytes\SendBytes\obj\Debug\SendBytes.exe
+C:\Users\Виталий\Source\Workspaces\test\SendBytes\SendBytes\obj\Debug\SendBytes.pdb
+C:\Users\Виталий\Source\Workspaces\test\SendBytes\SendBytes\bin\Debug\NAudio.dll
+C:\Users\Виталий\Source\Workspaces\test\SendBytes\SendBytes\bin\Debug\NAudio.xml
+D:\Разработки\GIT\Spectrum Daemon\SendBytes\SendBytes\bin\Debug\SendBytes.exe.config
+D:\Разработки\GIT\Spectrum Daemon\SendBytes\SendBytes\obj\Debug\SendBytes.exe
+D:\Разработки\GIT\Spectrum Daemon\SendBytes\SendBytes\obj\Debug\SendBytes.pdb
+D:\Разработки\GIT\Spectrum Daemon\SendBytes\SendBytes\bin\Debug\SendBytes.exe
+D:\Разработки\GIT\Spectrum Daemon\SendBytes\SendBytes\bin\Debug\SendBytes.pdb
+D:\Разработки\GIT\Spectrum Daemon\SendBytes\SendBytes\bin\Debug\NAudio.dll
+D:\Разработки\GIT\Spectrum Daemon\SendBytes\SendBytes\bin\Debug\NAudio.xml
+D:\Разработки\GIT\Spectrum Daemon\SendBytes\SendBytes\obj\Debug\SendBytes.csprojResolveAssemblyReference.cache
+D:\Разработки\GIT\Spectrum Daemon\SendBytes\SendBytes\obj\Debug\SendBytes.Form1.resources
+D:\Разработки\GIT\Spectrum Daemon\SendBytes\SendBytes\obj\Debug\SendBytes.Properties.Resources.resources
+D:\Разработки\GIT\Spectrum Daemon\SendBytes\SendBytes\obj\Debug\SendBytes.csproj.GenerateResource.Cache

@@ -1,0 +1,17 @@
+D:\Разработки\GIT\Spectrum Daemon\AudioSpectrum\AudioSpectrum\obj\Debug\AudioSpectrum.csprojResolveAssemblyReference.cache
+D:\Разработки\GIT\Spectrum Daemon\AudioSpectrum\AudioSpectrum\obj\Debug\Spectrum.baml
+D:\Разработки\GIT\Spectrum Daemon\AudioSpectrum\AudioSpectrum\obj\Debug\MainWindow.g.cs
+D:\Разработки\GIT\Spectrum Daemon\AudioSpectrum\AudioSpectrum\obj\Debug\Spectrum.g.cs
+D:\Разработки\GIT\Spectrum Daemon\AudioSpectrum\AudioSpectrum\obj\Debug\App.g.cs
+D:\Разработки\GIT\Spectrum Daemon\AudioSpectrum\AudioSpectrum\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Разработки\GIT\Spectrum Daemon\AudioSpectrum\AudioSpectrum\obj\Debug\AudioSpectrum_MarkupCompile.cache
+D:\Разработки\GIT\Spectrum Daemon\AudioSpectrum\AudioSpectrum\obj\Debug\AudioSpectrum_MarkupCompile.lref
+D:\Разработки\GIT\Spectrum Daemon\AudioSpectrum\AudioSpectrum\obj\Debug\AudioSpectrum.pdb
+D:\Разработки\GIT\Spectrum Daemon\AudioSpectrum\AudioSpectrum\bin\Debug\AudioSpectrum.exe.config
+D:\Разработки\GIT\Spectrum Daemon\AudioSpectrum\AudioSpectrum\bin\Debug\AudioSpectrum.exe
+D:\Разработки\GIT\Spectrum Daemon\AudioSpectrum\AudioSpectrum\bin\Debug\AudioSpectrum.pdb
+D:\Разработки\GIT\Spectrum Daemon\AudioSpectrum\AudioSpectrum\obj\Debug\MainWindow.baml
+D:\Разработки\GIT\Spectrum Daemon\AudioSpectrum\AudioSpectrum\obj\Debug\AudioSpectrum.g.resources
+D:\Разработки\GIT\Spectrum Daemon\AudioSpectrum\AudioSpectrum\obj\Debug\AudioSpectrum.Properties.Resources.resources
+D:\Разработки\GIT\Spectrum Daemon\AudioSpectrum\AudioSpectrum\obj\Debug\AudioSpectrum.csproj.GenerateResource.Cache
+D:\Разработки\GIT\Spectrum Daemon\AudioSpectrum\AudioSpectrum\obj\Debug\AudioSpectrum.exe
